@@ -24,3 +24,5 @@ git clone https://github.com/pip-services3-python/pip-services3-mqtt-python.git
 git clone https://github.com/pip-services3-python/pip-services3-kafka-python.git
 git clone https://github.com/pip-services3-python/pip-services3-azure-python.git
 git clone https://github.com/pip-services3-python/pip-services3-aws-python.git
+git clone https://github.com/pip-services3-python/pip-services3-mysql-python.git
+git clone https://github.com/pip-services3-python/pip-services3-gcp-python.git
